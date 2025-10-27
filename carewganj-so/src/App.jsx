@@ -1,10 +1,9 @@
-import { useState } from 'react'
 import postofficeLogo from '../src/img/postoffice2.png'
 import ippb from '../src/img/ippb2.png'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>

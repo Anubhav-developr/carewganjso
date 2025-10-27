@@ -11,7 +11,7 @@
 }
 .bg{
    background-image: url('./img/bgimg2.png');
-   background-size: contain;
+   background-size: cover;
    background-repeat: no-repeat;
    
    
@@ -44,7 +44,7 @@
 .content{
   margin: 0 auto;
   align-items: center;
-
+  padding: 12%;
 }
 
 
